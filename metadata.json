@@ -1,0 +1,6 @@
+{
+  "name": "Astroscent Cosmik",
+  "description": "Bespoke astrological perfumes and planetary elixirs attuned to your birth chart, celestial alignments, and elemental energies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
